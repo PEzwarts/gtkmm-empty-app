@@ -15,7 +15,7 @@ src = [
 ]
 
 exe = executable(
-  'x1',
+  'gtkmm',
   [src],
   install : true,
   dependencies : deps,
